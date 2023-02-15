@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+}
+
+#title {
+    font-family: sans-serif;
+    background-color: silver;
+    padding: 1rem;
+    margin: 0px;
+}
+
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: silver;
+    padding: 1rem;
+    margin: 0px;
+}
+
+textarea {
+    padding: 1rem;
+    margin: 1rem;
+    width: 50%;
+    height: 20vh;
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+    border-color: silver;
+}
+
+#transmit {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    padding: 1rem;
+    border-style: none;
+    border-radius: 1rem;
+    font-weight: bold;
+    color: black;
+    background-color: beige;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+body {
+    margin: 0px;
+    background-image: url("https://images7.alphacoders.com/105/1057222.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
